@@ -1,13 +1,15 @@
 <div align="center">
 
-# Hi, I'm Fatima Zohra Bentouhami 👋
+# Fatima Zohra Bentouhami 👋
 
-### Full-Stack Developer · AI/ML Enthusiast
+### Software Engineering Student · Full-Stack & Mobile Development · Applied AI
 
-Fifth-year Software Engineering student at **ENSAH** building intelligent web and mobile applications.
+Third-year Software Engineering student at **ENSAH (National School of Applied Sciences of Al Hoceima)**, seeking a **PFE internship** in Full-Stack, Web/Mobile Development, or AI.
 
-[![Email](https://img.shields.io/badge/Email-Contact-informational?style=flat&logo=gmail&logoColor=white)](mailto:fatimazohrabentouhami46@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fatima-zohra-bentouhami-48b4a3309)
+[![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:fatimazohrabentouhami46@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fatima-zohra-bentouhami-48b4a3309)
+
+**Morocco · Driving licence: Category B**
 
 </div>
 
@@ -15,69 +17,100 @@ Fifth-year Software Engineering student at **ENSAH** building intelligent web an
 
 ## About me
 
-I'm a software engineering student who enjoys turning complex problems into practical, production-ready software. My interests span full-stack and mobile development, applied AI, and building systems that solve real-world problems.
+I am a Software Engineering student with hands-on experience building web and mobile applications, backend modules, and AI-assisted features. I enjoy understanding real user workflows and turning them into practical, maintainable software. I am rigorous, autonomous, analytical, and comfortable collaborating with a team.
 
-**Currently looking for:** a PFE internship in web/mobile development or AI/ML.
+**Currently seeking:** a final-year project internship (**PFE**) in Full-Stack Web/Mobile Development or Artificial Intelligence.
 
 ## Experience
 
-### PFA Intern · Full-Stack Developer — QS Administration
-*July–September 2026 · Remote*
+### PFA Intern · Full-Stack Web & Mobile Developer — QS Administration
 
-- Contributed to an accounting platform with a **Next.js** web app and **React Native/Expo** mobile app backed by a shared REST API.
-- Developed features for invoices, quotations, payments, purchases, and banking.
-- Built **8 AI-powered features**, including invoice categorization and anomaly detection using LLMs.
-- Implemented role-based access for clients and accountants using **PostgreSQL** and **Prisma**.
-- **Tech:** Next.js, React Native, TypeScript, PostgreSQL, Prisma, Docker
+**July–September 2026 · Remote · Netherlands-based company**
+
+Contributed to a web and mobile accounting platform for clients and accountants, built around a shared REST API.
+
+- Delivered **9 backend/full-stack modules in 2 months**, covering invoices, quotations, payments, purchases, banking, accounting entries, VAT, tasks, and messaging.
+- Analyzed existing accounting workflows, the Prisma schema, authentication, and authorization; managed PostgreSQL data through Prisma.
+- Integrated **8 server-side AI features**, including invoice recognition, accounting categorization, reply drafts, summaries, tax explanations, and voice invoicing. The workflow keeps the accountant in control: **AI suggests; the accountant validates**.
+- Developed the React Native/Expo mobile application for two user roles, including role-based navigation, document scanning, UI/UX improvements, and server-side access control.
+- Organized the web and mobile applications around **one REST API and one monorepo**.
+
+**Tech:** Next.js, React, React Native, Expo, TypeScript, REST APIs, PostgreSQL, Prisma, Docker
 
 ## Featured projects
 
-### 🏥 [AI-Powered Medical Voice Assistant for Moroccan Darija](https://github.com/FATIMA-ZOHRA3/AI-Powered-Medical-Voice-Assistant-for-Moroccan-Darija-)
-*Natural Language Processing · Voice · RAG · LLMs*
+### 📄 CV Analysis & Interview Preparation App · *In progress*
 
-A multilingual voice assistant designed to help Moroccan Darija speakers access medical guidance through text and voice. The project explores custom data preparation for an under-resourced language, retrieval-augmented generation grounded in verified sources, and voice processing for colloquial Darija.
+**Java · Spring · PostgreSQL · RAG · AI · 2026**
+
+A project in development that compares a CV with a job posting and uses AI to provide recommendations and evaluate interview simulations.
+
+### 🏥 [Intelligent Medical Assistant in Moroccan Darija](https://github.com/FATIMA-ZOHRA3/AI-Powered-Medical-Voice-Assistant-for-Moroccan-Darija-)
+
+**NLP · RAG · Deep Learning · Text & Voice · 2026**
+
+Designed a semantic search system over **100,000+ medical question-and-answer pairs**, with text and voice responses to help Darija speakers access medical information.
 
 ### 🌱 [Plant Disease Detection](https://github.com/FATIMA-ZOHRA3/Plant-Disease-Detection)
-*Deep Learning · CNN · Computer Vision*
 
-A plant disease image-classification project with a CNN reported at **92% accuracy**, dataset preprocessing and augmentation, and a REST API for real-time predictions.
+**Deep Learning · CNN · Computer Vision · 2026**
+
+Developed a CNN model that identifies plant diseases from leaf images.
 
 ### 📚 [Course Registration Platform](https://github.com/FATIMA-ZOHRA3/microservices-project)
-*Microservices · Spring Boot · Docker*
 
-A containerized course-registration system with REST APIs and modular services for enrollment, course management, and student services.
+**Microservices · 2026**
+
+Designed a system decomposed into independent services to support maintainability and scalability for course registration.
 
 ### 🚗 [Road Traffic Simulation](https://github.com/FATIMA-ZOHRA3/SIMJAVA)
-*Java · OpenStreetMap · Algorithms*
 
-A traffic-flow simulation using OpenStreetMap data to model urban road networks and vehicle interactions, with visualization tools for analysis.
+**Java · OpenStreetMap · 2025**
 
-## Skills
+Developed a Java application that simulates traffic on a real map, with vehicle flows and animated visualization.
 
-| Area | Technologies |
+### 🎓 Teacher Assignment Management · *2024*
+
+**PHP · MySQL · JavaScript**
+
+Developed a web application for automated course assignments, timetable management, and administration.
+
+## Technical skills
+
+| Area | Technologies and concepts |
 | --- | --- |
-| **Web & mobile** | React, Next.js, React Native, Expo, TypeScript, JavaScript, Tailwind CSS |
-| **Backend & data** | Node.js, Spring Boot, REST APIs, PostgreSQL, MySQL, Prisma, microservices |
-| **AI & machine learning** | Python, TensorFlow, PyTorch, CNNs, Transformers, RAG, LLMs, computer vision |
-| **Tools & platforms** | Git, GitHub, Docker, Linux |
+| **Programming languages** | TypeScript, JavaScript, Python, Java, C, C++, SQL, Object-Oriented Programming |
+| **Frontend & mobile** | Next.js, React, React Native (Expo), HTML5, CSS |
+| **Backend & APIs** | Spring Framework, Prisma, REST APIs, API integration, microservices, PHP |
+| **Databases** | PostgreSQL, MySQL, SQLite |
+| **AI & machine learning** | Machine Learning, Deep Learning, CNNs, NLP, RAG, LLM integration, prompt engineering |
+| **Tools & practices** | Git, GitHub, Docker, Linux, Odoo, Scrum |
 
 ## Education
 
-**ENSAH — École Nationale des Sciences Appliquées, Tétouan**  
-Fifth-year Software Engineering student · BAC+5
+**ENSAH — École Nationale des Sciences Appliquées, Al Hoceima**  
+Engineering Cycle in Software Engineering · **2024–2027**
+
+**Preparatory Classes for Engineering Schools — CPGE MP** · **2022–2024**  
+**Scientific Baccalaureate, Physical Sciences (French option)** · **Highest Honors, 2022**
+
+## Languages & strengths
+
+- **Arabic:** Native · **French:** Professional · **English:** Technical
+- **Strengths:** Rigor, autonomy, analytical thinking, teamwork, problem-solving
 
 ## GitHub
 
 <div align="center">
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=FATIMA-ZOHRA3&theme=dark&show_icons=true&hide_border=true)
-![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=FATIMA-ZOHRA3&theme=dark&layout=compact&hide_border=true)
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=FATIMA-ZOHRA3&theme=transparent&show_icons=true&hide_border=true" alt="Fatima Zohra's GitHub stats" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FATIMA-ZOHRA3&theme=transparent&layout=compact&hide_border=true" alt="Most used programming languages" />
 
 </div>
 
 ## Let's connect
 
-I'm interested in AI/ML applications, full-stack and mobile development, production-ready systems, and projects with real-world impact.
+I am interested in PFE opportunities and collaborations in Full-Stack and mobile development, applied AI, and software projects with real-world impact.
 
 - **Email:** [fatimazohrabentouhami46@gmail.com](mailto:fatimazohrabentouhami46@gmail.com)
 - **LinkedIn:** [Fatima Zohra Bentouhami](https://www.linkedin.com/in/fatima-zohra-bentouhami-48b4a3309)
